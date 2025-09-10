@@ -20,6 +20,7 @@ Do your best to replicate the following simple graphics:
 
 2. Modify the base code to create a new flower!
 - Ideas: add additional shapes, create an interior for the flower, change the animation, make your flower explode, add an animated background, use color gradients.
+
 *Solution:* https://www.shadertoy.com/view/3fsfWn
 
 # Submission
